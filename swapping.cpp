@@ -2,7 +2,6 @@
 
 int main()
 {
-
 int leftHand, reghtHand, dolasHand;
 leftHand =50;
 reghtHand= 80;
